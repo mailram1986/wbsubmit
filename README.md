@@ -1,6 +1,6 @@
-# wbsubmit
+# 📁 Bioinformatics Lab Submission Portal
 Workbook Submission Portal
-📁 Bioinformatics Lab Submission Portal
+
 A lightweight, local-first Flask web application for collecting student workbook submissions in bioinformatics and biotechnology labs. Built for seamless management by instructors and administrators.
 
 🚀 Features
